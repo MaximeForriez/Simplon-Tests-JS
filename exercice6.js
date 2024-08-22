@@ -24,5 +24,5 @@ function countChar(text, test)
     return count;
 }
 
-countBs( "countBs"));
+countBs( "countBs");
 console.log(countChar("kakkerlak", "k"));
