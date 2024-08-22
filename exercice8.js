@@ -25,4 +25,4 @@ reverseArrayInPlace(arrayValue);
 console.log(arrayValue);
 console.log(reverseArrayInPlace(arrayValue));
 
-console.log("Je n'ai pas compris la différence entre les deux énoncés.");
+console.log("Je n'ai pas compris la différence entre les deux énoncés. ");
